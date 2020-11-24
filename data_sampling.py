@@ -3,7 +3,6 @@
     neptune : 107,201   => 210개
     smurf : 280,790     => 560개
     normal : 97,278     => 230개
-    한번 시험해보자
 """
 
 import pandas as pd
